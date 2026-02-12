@@ -1,4 +1,3 @@
-```markdown
 # 🐿️ Hungry Squirrel  
 *A fun terminal arcade game written in C*
 
@@ -124,5 +123,3 @@ gcc hungrySquirrelV2.c -o game
 ---
 
 Enjoy the game and try to beat your high score! 🥜🐿️🏆
-```
-
