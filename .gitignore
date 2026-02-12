@@ -1,0 +1,62 @@
+# =========================
+# Compiled Binaries
+# =========================
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.dll
+*.so
+*.a
+
+# Linux build outputs
+game
+hungrySquirrel
+hungrySquirrelV1
+hungrySquirrelV2
+
+# Windows build outputs
+game.exe
+hungrySquirrel.exe
+
+# =========================
+# High Score File
+# =========================
+HungryGameRecord.txt
+
+# =========================
+# IDE / Editor Files
+# =========================
+
+# VS Code
+.vscode/
+
+# CodeBlocks
+*.layout
+*.depend
+*.cbp
+
+# CLion / JetBrains
+.idea/
+
+# Sublime
+*.sublime-workspace
+*.sublime-project
+
+# Vim
+*.swp
+*.swo
+
+# =========================
+# OS Files
+# =========================
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
